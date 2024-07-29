@@ -1,0 +1,16 @@
+
+body {
+    position: relative;
+    height: 100vh; /* Ocupa toda la altura de la ventana */
+    background-color: #f3f6fb;
+    background-image: url('assets/images/imagen.jpg'); /* Ruta a la imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-position: center; /* Centra la imagen en la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+/* Estilo para los encabezados de las tarjetas */
+.card-header {
+    background-color: #ffff !important;
+}
+
